@@ -7,7 +7,6 @@ public class EnemyController : MonoBehaviour {
     public Transform HumanTypeEnemyPosition;
     NavMeshAgent agent;
     Animator animator;
-    public float DamageAmount;
 
     private bool attack = false;
     //距離関係
