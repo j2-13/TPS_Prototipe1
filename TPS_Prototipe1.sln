@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5E818DCE-1004-208C-17B4-DC6A27A68B04}") = "TPS_Prototipe1", "Assembly-CSharp.csproj", "{EFF217A9-A120-AAD5-8171-C15A5026266F}"
+EndProject
+Project("{5E818DCE-1004-208C-17B4-DC6A27A68B04}") = "TPS_Prototipe1", "Assembly-CSharp-Editor.csproj", "{DB247DD6-5C0E-6F17-623C-B7417614CBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF217A9-A120-AAD5-8171-C15A5026266F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF217A9-A120-AAD5-8171-C15A5026266F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF217A9-A120-AAD5-8171-C15A5026266F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF217A9-A120-AAD5-8171-C15A5026266F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB247DD6-5C0E-6F17-623C-B7417614CBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB247DD6-5C0E-6F17-623C-B7417614CBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB247DD6-5C0E-6F17-623C-B7417614CBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB247DD6-5C0E-6F17-623C-B7417614CBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
